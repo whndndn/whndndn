@@ -1,10 +1,19 @@
-- 👋 Hi, I’m @whndndn
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# 👋 Hi, I’m whndndn!
 
-<!---
-whndndn/whndndn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🎮 我热爱游戏mod制作，也喜欢各种有趣、实用的项目。
+
+---
+
+## 🛠️ 我的兴趣
+- 游戏Mod开发与分享
+- 各类有趣的开源项目
+- 喜欢探索和学习新技术
+
+## 🌟 我的仓库
+欢迎浏览我的项目仓库，发现更多有趣内容！
+
+---
+
+<!-- 如果你今后想添加联系方式或社交账号，可以在这里补充 -->
+
+感谢你的关注！如果你也喜欢有趣的项目，欢迎互相交流、合作~
